@@ -1,0 +1,17 @@
+[
+  {
+    "account_id": 1,
+    "access_token": "your_access_token_here",
+    "proxy": ""
+  },
+  {
+    "account_id": 2,
+    "access_token": "your_access_token_here",
+    "proxy": "login:password@proxy_ip:proxy_port"
+  },
+  {
+    "account_id": 3,
+    "access_token": "your_access_token_here",
+    "proxy": "login:password@proxy_ip:proxy_port"
+  }
+]
